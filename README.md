@@ -2,7 +2,7 @@
 
 Legacy version of the TTextEditor control for C++ Builder/Delphi. 
 
-Latest version for Delphi 13+ https://codeberg.org/TextEditorPro/TTextEditor 
+Latest version for Delphi 13+ https://github.com/TextEditorPro/TTextEditor/ 
 
 ## Updates
 
